@@ -1,7 +1,6 @@
 ### Hello, I'm Agatha Barros!👋
 
-- 🔭 I’m currently studying on University of Porto
-- 🌱 I’m currently learning Python, SQL and Bussiness
+
 - 👯 I’m looking to collaborate on a project that makes me feel part of something bigger
 
 
