@@ -1,7 +1,6 @@
 ### Hello, I'm Agatha Barros!👋
 
 
-- 👯 I’m looking to collaborate on a project that makes me feel part of something bigger
 
 <div> 
   <a href="https://instagram.com/_agatha_barros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -9,6 +8,10 @@
   <a href="https://www.linkedin.com/in/agathabarros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<a href="https://github.com/agathabarros/42_libft">
+<img src="./src/badges/libftm.png" height="90" width="90">
+</a>
 
 <picture>
 <source 
