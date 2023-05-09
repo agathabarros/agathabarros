@@ -10,7 +10,7 @@
 </div>
 
 <a href="https://github.com/agathabarros/42-libft">
-<img src="./src/badges/libftm.png" height="90" width="90">
+<img src="/src/badges/libftm.png" height="90" width="90">
 </a>
 
 <picture>
