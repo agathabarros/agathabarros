@@ -2,7 +2,9 @@
 🎙️ Host on a podcast about international experiences: [GiroCast](https://linktr.ee/girocast.pt)
 
 👩🏽‍💻 I'm a student at 42 Porto and I study Management to solve business process problems.
+
 🙌🏽 Embracing possibilities and seeking constant growth
+
 👀 Curious and enthusiastic individual
 
 
