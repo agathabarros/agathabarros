@@ -20,6 +20,9 @@
 </div>
 
 
+[![agpereir's 42 stats](https://badge42.vercel.app/api/v2/clhozfcqy002108msyogropc9/stats?cursusId=21&coalitionId=237)](https://github.com/JaeSeoKim/badge42)
+
+
 <picture>
 <source 
   srcset="https://github-readme-status.vercel.app/api?username=agathabarros&show_icons=true&theme=dark"
