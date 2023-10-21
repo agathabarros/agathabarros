@@ -20,8 +20,6 @@
 </div>
 
 
-[![agpereir's 42 stats](https://badge42.vercel.app/api/v2/clhozfcqy002108msyogropc9/stats?cursusId=21&coalitionId=237)](https://github.com/JaeSeoKim/badge42)
-
 
 <picture>
 <source 
@@ -37,3 +35,10 @@
 
  
 
+## My github stats
+
+<div align="center">
+  <a href="https://github.com/agathabarros">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agathabarros&show_icons=true&count_private=true&line_height=30&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agathabarros&layout=compact&theme=dark"/>
+</div>
