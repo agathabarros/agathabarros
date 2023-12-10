@@ -1,11 +1,12 @@
 ### Hello, I'm Agatha Barros!👋
+
+[![agpereir's 42 stats](https://badge.mediaplus.ma/starryblue/agpereir?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 🎙️ Host on a podcast about international experiences: [GiroCast](https://linktr.ee/girocast.pt)
 
-👩🏽‍💻 I'm a student at 42 Porto and I study Management to solve business process problems.
+👩🏽‍💻 I'm a brazilian student at 42 Porto.
 
 🙌🏽 Embracing possibilities and seeking constant growth
-
-👀 Curious and enthusiastic individual
 
 
 
@@ -35,10 +36,3 @@
 
  
 
-## My github stats
-
-<div align="center">
-  <a href="https://github.com/agathabarros">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agathabarros&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agathabarros&layout=compact&theme=dark"/>
-</div>
