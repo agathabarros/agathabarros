@@ -1,6 +1,8 @@
 ### Hello, I'm Agatha Barros!👋
 
-[![agpereir's 42 stats](https://badge.mediaplus.ma/starryblue/agpereir?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+
+![octocat-1710501847981](https://github.com/agathabarros/agathabarros/assets/101367759/3674c3a4-addf-4eab-8482-f13213dafc71)
 
 🎙️ Host on a podcast about international experiences: [GiroCast](https://linktr.ee/girocast.pt)
 
@@ -8,6 +10,7 @@
 
 🙌🏽 Embracing possibilities and seeking constant growth
 
+[![agpereir's 42 stats](https://badge.mediaplus.ma/starryblue/agpereir?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 
