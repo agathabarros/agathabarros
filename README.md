@@ -2,7 +2,7 @@
 
 
 
-![octocat-1710501847981](https://github.com/agathabarros/agathabarros/assets/101367759/3674c3a4-addf-4eab-8482-f13213dafc71)
+<img src="https://github.com/agathabarros/agathabarros/assets/101367759/3674c3a4-addf-4eab-8482-f13213dafc71" width="500" height="300">
 
 🎙️ Host on a podcast about international experiences: [GiroCast](https://linktr.ee/girocast.pt)
 
