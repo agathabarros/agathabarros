@@ -30,9 +30,8 @@ Before coming to Portugal, I had the opportunity to intern at two major companie
 
 I'm studying and developing skills in various areas, including:
 
-- **Programming Languages**: Python, SQL, C
-- **Data Visualization and Analysis**: Power Apps, Power BI
-- **Software Development**
+- **Programming Languages**: Python, SQL, C, R
+- **Data Visualization and Analysis**: Power Apps, Power BI, Excel
 
 ### 🎯 Current Objective
 
