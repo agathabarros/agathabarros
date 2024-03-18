@@ -14,7 +14,7 @@ software development and data analysis. <br>
 
 ## About Me
 
-- 🎓 Studying at School 42
+- 🎓 Studying at 42 School
 - 📚 Finalist in Administration and Accounting
 - 🌍 Seeking international experiences in tech
 
