@@ -7,9 +7,7 @@
 I'm Ágatha, a passionate data analyst and aspiring software developer.<br>
 Welcome to my GitHub repository, where I showcase my projects,<br>
 skills, and journey in the world of technology. <br>
-I'm currently based in Portugal, exploring international <br> 
-opportunities while honing my craft in <br>
-software development and data analysis. <br> 
+
 
 
 ## About Me
