@@ -11,8 +11,6 @@ skills, and journey in the world of technology. <br>
 
 
 ## About Me
-
-- 🎓 Studying at 42 School
 - 📚 Finalist in Administration at UERJ
 - 🌍 Seeking experiences in tech
 
